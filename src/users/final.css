@@ -1,0 +1,41 @@
+.final{
+    background-color: aqua;
+}
+.last{
+    
+    height:90vh;
+    overflow: hidden;
+   
+ 
+}
+
+
+
+.final{
+    background: url(ordersuccessful.gif);
+    mix-blend-mode: multiply;
+    transform: translateX(700px);
+    background-image: contain;
+    background-repeat: no-repeat;
+    width:200px;
+    height:500px;
+    background-position: center;
+   
+   
+}
+#od{
+    font-weight: bold;
+    font-size: 50px;
+    background: repeating-linear-gradient(rgb(21, 135, 61),rgb(24, 95, 17),rgb(22, 140, 77));
+    color:transparent;
+    background-position: center;
+    transform: translateX(500px);
+    -webkit-background-clip: text;
+}
+#feed{
+    transform: translateX(700px); 
+}
+.address{
+    background-color:#eee;
+    height: 90vh;
+}
